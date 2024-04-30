@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   descriptionContainer: {
     width: "70%",
-    // margin: 2,
+
   },
   description: {
     fontSize: 16,
