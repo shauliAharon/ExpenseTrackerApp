@@ -33,8 +33,7 @@ const styles = StyleSheet.create({
     shadowRadius: 4,
     shadowOffset: { width: 1, height: 1 },
     shadowOpacity: 0.4,
-    // marginTop:15,
-    // margin:9
+
   },
   textBase: {
     color: GlobalStyles.colors.primary50,
